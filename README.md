@@ -34,3 +34,4 @@ Optionally, you can uncomment the loop at the end to print the scraped details f
 ## Disclaimer
 
 Please be aware that web scraping may be subject to terms of use and legal restrictions on certain websites. Make sure to review Amazon's terms of service and robots.txt file before using this script for scraping purposes.
+![Running GIF](  https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
